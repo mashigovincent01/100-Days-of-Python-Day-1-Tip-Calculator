@@ -1,0 +1,34 @@
+len(string) -> returns the number of characters in a string
+
+Data types
+String -> text
+Integer -> numbers
+Float -> decimal
+boolean -> True, False
+
+Type Error, Type Checking and Type Conversion
+
+Type Error -> appears when you use an invalid method/function on a a specific types
+
+Type Checking
+type(value) -> gives you the data type of value
+
+Type Conversion/Casting (switching between types)
+str(value)
+int(value)
+float(value)
+
+Mathematical Operations
++
+-
+*
+/ (is always normal/ float division)
+// (integer division)
+** (Power)
+% modulus/remainder
+
+PEMDAS
+()
+**
+*/
++-
